@@ -1,0 +1,7 @@
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\bin\Debug\5.exe.config
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\bin\Debug\5.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\bin\Debug\5.pdb
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\obj\Debug\5.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5\obj\Debug\5.pdb

@@ -1,0 +1,7 @@
+C:\Users\安笨笨\Desktop\0310HW\monkey\bin\Debug\monkey.exe.config
+C:\Users\安笨笨\Desktop\0310HW\monkey\bin\Debug\monkey.exe
+C:\Users\安笨笨\Desktop\0310HW\monkey\bin\Debug\monkey.pdb
+C:\Users\安笨笨\Desktop\0310HW\monkey\obj\Debug\monkey.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\0310HW\monkey\obj\Debug\monkey.exe
+C:\Users\安笨笨\Desktop\0310HW\monkey\obj\Debug\monkey.pdb
+C:\Users\安笨笨\Desktop\0310HW\monkey\obj\Debug\monkey.csprojResolveAssemblyReference.cache

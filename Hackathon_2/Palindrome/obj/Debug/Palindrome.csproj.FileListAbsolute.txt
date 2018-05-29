@@ -1,0 +1,7 @@
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\USER-PC\Desktop\Hackathon2\Palindrome\obj\Debug\Palindrome.pdb

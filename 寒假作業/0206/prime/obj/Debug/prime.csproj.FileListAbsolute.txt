@@ -1,0 +1,13 @@
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\prime\bin\Debug\prime.exe.config
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\prime\bin\Debug\prime.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\prime\bin\Debug\prime.pdb
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\prime\obj\Debug\prime.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\prime\obj\Debug\prime.pdb
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\bin\Debug\prime.exe.config
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\bin\Debug\prime.exe
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\bin\Debug\prime.pdb
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\obj\Debug\prime.exe
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\obj\Debug\prime.pdb
+C:\Users\USER-PC\Desktop\奕安的資料夾\0123\寒假作業\0206\prime\obj\Debug\prime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\bin\Debug\Numerology.exe.config
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\bin\Debug\Numerology.exe
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\bin\Debug\Numerology.pdb
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.Form1.resources
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.Properties.Resources.resources
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.csproj.GenerateResource.Cache
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.exe
+C:\Users\USER-PC\source\repos\Hackathon01\Numerology\obj\Debug\Numerology.pdb

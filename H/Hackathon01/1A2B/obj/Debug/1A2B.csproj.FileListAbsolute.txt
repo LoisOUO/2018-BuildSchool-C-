@@ -1,0 +1,10 @@
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\bin\Debug\1A2B.exe.config
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\bin\Debug\1A2B.exe
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\bin\Debug\1A2B.pdb
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\1A2B.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\_1A2B.Form1.resources
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\_1A2B.Properties.Resources.resources
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\1A2B.csproj.GenerateResource.Cache
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\1A2B.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\1A2B.exe
+C:\Users\USER-PC\source\repos\Hackathon01\1A2B\obj\Debug\1A2B.pdb

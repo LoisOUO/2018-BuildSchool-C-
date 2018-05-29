@@ -1,0 +1,7 @@
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\bin\Debug\0310HW001.exe.config
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\bin\Debug\0310HW001.exe
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\bin\Debug\0310HW001.pdb
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\obj\Debug\0310HW001.csprojResolveAssemblyReference.cache
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\obj\Debug\0310HW001.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\obj\Debug\0310HW001.exe
+C:\Users\安笨笨\Desktop\0310HW\0310HW001\obj\Debug\0310HW001.pdb

@@ -1,0 +1,10 @@
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\bin\Debug\ElectricityFee.exe.config
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\bin\Debug\ElectricityFee.exe
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\bin\Debug\ElectricityFee.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.Form1.resources
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.csproj.GenerateResource.cache
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.exe
+C:\Users\USER-PC\Desktop\Hackathon2\ElectricityFee\obj\Debug\ElectricityFee.pdb

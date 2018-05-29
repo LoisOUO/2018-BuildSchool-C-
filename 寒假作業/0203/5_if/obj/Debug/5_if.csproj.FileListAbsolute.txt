@@ -1,0 +1,6 @@
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5_if\bin\Debug\5_if.exe.config
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5_if\bin\Debug\5_if.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5_if\bin\Debug\5_if.pdb
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5_if\obj\Debug\5_if.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5_if\obj\Debug\5_if.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0203\5_if\obj\Debug\5_if.pdb

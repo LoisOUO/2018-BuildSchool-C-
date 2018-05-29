@@ -1,0 +1,7 @@
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\bin\Debug\Hackathon002.exe.config
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\bin\Debug\Hackathon002.exe
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\bin\Debug\Hackathon002.pdb
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\obj\Debug\Hackathon002.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\obj\Debug\Hackathon002.exe
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\obj\Debug\Hackathon002.pdb
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon002\obj\Debug\Hackathon002.csprojResolveAssemblyReference.cache

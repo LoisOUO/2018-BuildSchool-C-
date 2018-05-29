@@ -1,0 +1,14 @@
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\bin\Debug\07.exe.config
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\bin\Debug\07.exe
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\bin\Debug\07.pdb
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\obj\Debug\07.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\obj\Debug\07.exe
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\obj\Debug\07.pdb
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\07\obj\Debug\07.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\bin\Debug\07.exe.config
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\bin\Debug\07.exe
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\bin\Debug\07.pdb
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\obj\Debug\07.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\obj\Debug\07.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\obj\Debug\07.exe
+C:\Users\USER-PC\Desktop\奕安的資料夾\寒假作業 重寫版\HW01\07\obj\Debug\07.pdb

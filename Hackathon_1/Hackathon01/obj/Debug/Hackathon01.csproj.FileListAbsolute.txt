@@ -1,0 +1,10 @@
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\bin\Debug\Hackathon01.exe.config
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\bin\Debug\Hackathon01.exe
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\bin\Debug\Hackathon01.pdb
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.Form1.resources
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.csproj.GenerateResource.Cache
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.exe
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon01\obj\Debug\Hackathon01.pdb

@@ -1,0 +1,14 @@
+C:\Users\USER-PC\Desktop\test0308\test0308\bin\Debug\test0308.exe.config
+C:\Users\USER-PC\Desktop\test0308\test0308\bin\Debug\test0308.exe
+C:\Users\USER-PC\Desktop\test0308\test0308\bin\Debug\test0308.pdb
+C:\Users\USER-PC\Desktop\test0308\test0308\obj\Debug\test0308.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\test0308\test0308\obj\Debug\test0308.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\test0308\test0308\obj\Debug\test0308.exe
+C:\Users\USER-PC\Desktop\test0308\test0308\obj\Debug\test0308.pdb
+D:\奕安的資料夾01\自我練習\test0308\test0308\bin\Debug\test0308.exe.config
+D:\奕安的資料夾01\自我練習\test0308\test0308\bin\Debug\test0308.exe
+D:\奕安的資料夾01\自我練習\test0308\test0308\bin\Debug\test0308.pdb
+D:\奕安的資料夾01\自我練習\test0308\test0308\obj\Debug\test0308.csprojResolveAssemblyReference.cache
+D:\奕安的資料夾01\自我練習\test0308\test0308\obj\Debug\test0308.csproj.CoreCompileInputs.cache
+D:\奕安的資料夾01\自我練習\test0308\test0308\obj\Debug\test0308.exe
+D:\奕安的資料夾01\自我練習\test0308\test0308\obj\Debug\test0308.pdb

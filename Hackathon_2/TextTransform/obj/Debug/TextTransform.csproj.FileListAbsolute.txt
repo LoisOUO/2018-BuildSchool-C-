@@ -1,0 +1,15 @@
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\TextTransform.exe.config
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\TextTransform.exe
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\TextTransform.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\obj\Debug\TextTransform.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\obj\Debug\TextTransform.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\obj\Debug\TextTransform.exe
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\obj\Debug\TextTransform.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\EntityFramework.dll
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\EntityFramework.xml
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\obj\Debug\TextTransform.csproj.CopyComplete
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\Database1.mdf
+C:\Users\USER-PC\Desktop\Hackathon2\TextTransform\bin\Debug\Database1_log.ldf

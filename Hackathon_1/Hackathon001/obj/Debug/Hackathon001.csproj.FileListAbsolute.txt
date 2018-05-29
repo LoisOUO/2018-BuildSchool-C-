@@ -1,0 +1,14 @@
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\bin\Debug\Hackathon001.exe.config
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\bin\Debug\Hackathon001.exe
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\bin\Debug\Hackathon001.pdb
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\obj\Debug\Hackathon001.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\obj\Debug\Hackathon001.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\obj\Debug\Hackathon001.exe
+C:\Users\USER-PC\Desktop\第三次寒假作業\Hackathon01\Hackathon001\obj\Debug\Hackathon001.pdb
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\bin\Debug\Hackathon001.exe.config
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\bin\Debug\Hackathon001.exe
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\bin\Debug\Hackathon001.pdb
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\obj\Debug\Hackathon001.csprojResolveAssemblyReference.cache
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\obj\Debug\Hackathon001.csproj.CoreCompileInputs.cache
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\obj\Debug\Hackathon001.exe
+C:\Users\lois\Desktop\GITHUB要放的\2018 BuildSchool-C#\Hackathon01\Hackathon001\obj\Debug\Hackathon001.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER-PC\Desktop\Hackathon2\division3x5\bin\Debug\division3x5.exe.config
+C:\Users\USER-PC\Desktop\Hackathon2\division3x5\bin\Debug\division3x5.exe
+C:\Users\USER-PC\Desktop\Hackathon2\division3x5\bin\Debug\division3x5.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\division3x5\obj\Debug\division3x5.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Hackathon2\division3x5\obj\Debug\division3x5.exe
+C:\Users\USER-PC\Desktop\Hackathon2\division3x5\obj\Debug\division3x5.pdb

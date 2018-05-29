@@ -1,0 +1,10 @@
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\bin\Debug\0206.exe.config
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\bin\Debug\0206.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\bin\Debug\0206.pdb
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\0206.csprojResolveAssemblyReference.cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\_0206.Form1.resources
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\_0206.Properties.Resources.resources
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\0206.csproj.GenerateResource.Cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\0206.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\0206.exe
+C:\Users\安笨笨\Desktop\0123\寒假作業\0206\0206\obj\Debug\0206.pdb

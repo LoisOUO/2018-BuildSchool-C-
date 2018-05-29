@@ -1,2 +1,2 @@
-# 2018-BuildSchool-C-
+# 2018-BuildSchool-C
 C#

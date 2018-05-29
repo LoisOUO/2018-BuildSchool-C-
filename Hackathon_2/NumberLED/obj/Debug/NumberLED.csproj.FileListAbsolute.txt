@@ -1,0 +1,7 @@
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\bin\Debug\NumberLED.exe.config
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\bin\Debug\NumberLED.exe
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\bin\Debug\NumberLED.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\obj\Debug\NumberLED.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\obj\Debug\NumberLED.exe
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\obj\Debug\NumberLED.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\NumberLED\obj\Debug\NumberLED.csprojResolveAssemblyReference.cache

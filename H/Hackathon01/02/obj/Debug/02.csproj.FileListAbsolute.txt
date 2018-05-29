@@ -1,0 +1,7 @@
+C:\Users\USER-PC\source\repos\Hackathon01\02\bin\Debug\02.exe.config
+C:\Users\USER-PC\source\repos\Hackathon01\02\bin\Debug\02.exe
+C:\Users\USER-PC\source\repos\Hackathon01\02\bin\Debug\02.pdb
+C:\Users\USER-PC\source\repos\Hackathon01\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\repos\Hackathon01\02\obj\Debug\02.exe
+C:\Users\USER-PC\source\repos\Hackathon01\02\obj\Debug\02.pdb
+C:\Users\USER-PC\source\repos\Hackathon01\02\obj\Debug\02.csprojResolveAssemblyReference.cache

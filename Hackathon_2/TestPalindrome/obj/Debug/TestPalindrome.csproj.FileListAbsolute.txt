@@ -1,0 +1,7 @@
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\bin\Debug\TestPalindrome.exe.config
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\bin\Debug\TestPalindrome.exe
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\bin\Debug\TestPalindrome.pdb
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\obj\Debug\TestPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\obj\Debug\TestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\obj\Debug\TestPalindrome.exe
+C:\Users\USER-PC\Desktop\Hackathon2\TestPalindrome\obj\Debug\TestPalindrome.pdb

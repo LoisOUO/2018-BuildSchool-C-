@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon02", "Hackathon02\Hackathon02.csproj", "{6AD94A84-C5C4-4734-885A-4303C224ECDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random", "random\random.csproj", "{60D074E2-91FD-4327-8D3A-03A50EA4967C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD94A84-C5C4-4734-885A-4303C224ECDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD94A84-C5C4-4734-885A-4303C224ECDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD94A84-C5C4-4734-885A-4303C224ECDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD94A84-C5C4-4734-885A-4303C224ECDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D074E2-91FD-4327-8D3A-03A50EA4967C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D074E2-91FD-4327-8D3A-03A50EA4967C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D074E2-91FD-4327-8D3A-03A50EA4967C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D074E2-91FD-4327-8D3A-03A50EA4967C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33709C96-A3FD-4BAD-ABA2-CF573DE44A56}
+	EndGlobalSection
+EndGlobal

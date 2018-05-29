@@ -1,0 +1,6 @@
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\HW\bin\Debug\HW.exe.config
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\HW\bin\Debug\HW.exe
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\HW\bin\Debug\HW.pdb
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\HW\obj\Debug\HW.exe
+C:\Users\安笨笨\Desktop\寒假作業 重寫版\HW01\HW\obj\Debug\HW.pdb

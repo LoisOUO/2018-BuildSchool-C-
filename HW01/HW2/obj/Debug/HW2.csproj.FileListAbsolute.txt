@@ -1,0 +1,10 @@
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.Form1.resources
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.csproj.GenerateResource.Cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\bin\Debug\HW2.exe.config
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\bin\Debug\HW2.exe
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\bin\Debug\HW2.pdb
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.exe
+C:\Users\USER-PC\Desktop\奕安的資料夾\HW01\HW2\obj\Debug\HW2.pdb
